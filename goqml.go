@@ -20,5 +20,5 @@ func run() error {
     win := component.CreateWindow(nil)
     win.Show()
     win.Wait()
-    return nil          
+    return nil
 }
